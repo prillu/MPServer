@@ -1,0 +1,92 @@
+{
+  "allVideos": [
+    {
+      "id": "7f73",
+      "caption": "Nagumo Video Song",
+      "imgURL": "https://i.ytimg.com/vi/xyUxkUPe2xg/maxresdefault.jpg",
+      "youtubeURL": "http://www.youtube.com/embed/xyUxkUPe2xg"
+    },
+    {
+      "id": "39a5",
+      "caption": "Nyabagam Song",
+      "imgURL": "https://c.saavncdn.com/402/Varshangalkku-Shesham-Malayalam-2024-20240407163807-500x500.jpg",
+      "youtubeURL": "http://www.youtube.com/embed/I5NMD5nd-NU"
+    },
+    {
+      "id": "f70a",
+      "caption": "Jaada avesham",
+      "imgURL": "https://images.hungama.com/c/1/c81/39e/107553311/107553311_300x300.jpg",
+      "youtubeURL": "http://www.youtube.com/embed/o3KFJNehMgw"
+    }
+  ],
+  "history": [
+    {
+      "id": "36d7",
+      "caption": "Karmukilil pidanjunarum",
+      "youtubeURL": "http://www.youtube.com/embed/JuL98YuFFlo",
+      "timeStamp": "4/30/2024, 10:31:34 AM GMT+5:30"
+    },
+    {
+      "id": "365c",
+      "caption": "Illuminati",
+      "youtubeURL": "http://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "5/2/2024, 10:21:12 AM GMT+5:30"
+    },
+    {
+      "id": "4e81",
+      "caption": "Poove Oru Mazha Mutham",
+      "youtubeURL": "http://www.youtube.com/embed/Dr52UxVoVNU",
+      "timeStamp": "5/6/2024, 10:31:54 AM GMT+5:30"
+    },
+    {
+      "id": "572c",
+      "caption": "ethu kari ravilum",
+      "youtubeURL": "http://www.youtube.com/embed/dz3ik3XzR54",
+      "timeStamp": "5/6/2024, 10:32:08 AM GMT+5:30"
+    },
+    {
+      "id": "fbf8",
+      "caption": "ethu kari ravilum",
+      "youtubeURL": "http://www.youtube.com/embed/dz3ik3XzR54",
+      "timeStamp": "5/6/2024, 10:32:53 AM GMT+5:30"
+    }
+  ],
+  "allCategory": [
+    {
+      "id": "2895",
+      "categoryName": "old songs",
+      "allVideos": [
+        {
+          "id": "6695",
+          "caption": "Poove Oru Mazha Mutham",
+          "imgURL": "https://i.ytimg.com/vi/Dr52UxVoVNU/maxresdefault.jpg",
+          "youtubeURL": "http://www.youtube.com/embed/Dr52UxVoVNU"
+        },
+        {
+          "id": "c3e7",
+          "caption": "ethu kari ravilum",
+          "imgURL": "https://i.ytimg.com/vi/vsN1y8kbeFo/maxresdefault.jpg",
+          "youtubeURL": "http://www.youtube.com/embed/dz3ik3XzR54"
+        }
+      ]
+    },
+    {
+      "id": "42aa",
+      "categoryName": "latest songs",
+      "allVideos": [
+        {
+          "id": "151a",
+          "caption": "illuminati",
+          "imgURL": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+          "youtubeURL": "http://www.youtube.com/embed/tOM-nWPcR4U"
+        },
+        {
+          "id": "da21",
+          "caption": "Chaleya Song",
+          "imgURL": "https://c.saavncdn.com/026/Chaleya-From-Jawan-Hindi-2023-20230814014337-500x500.jpg",
+          "youtubeURL": "http://www.youtube.com/embed/VAdGW7QDJiU"
+        }
+      ]
+    }
+  ]
+}
